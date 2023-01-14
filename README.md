@@ -2,7 +2,7 @@
 
 ---
 
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)][![GitHub issues](https://img.shields.io/github/issues/Naereen/StrapDown.js.svg)]
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)][![GitHub issues](https://img.shields.io/github/issues-raw/aboudzein/ava)]
 
 Imagine having a personal assistant that can help you with your daily tasks. Imagine having a bot that can answer your questions, schedule events, provide weather forecasts and much more. Imagine having a bot that can do all of this and more, all in one place. Well, now you can.
 
